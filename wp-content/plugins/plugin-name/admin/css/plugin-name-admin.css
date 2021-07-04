@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#input_label{
+    color: red;
+}
+.jumbotron{
+    margin-top:18px;
+    margin-right: 18px;
+}
